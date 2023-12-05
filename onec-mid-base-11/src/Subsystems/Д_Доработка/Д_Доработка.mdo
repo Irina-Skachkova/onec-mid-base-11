@@ -8,4 +8,5 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.Д_Должности</content>
+  <content>Catalog.Д_КонтактныеЛица</content>
 </mdclass:Subsystem>
